@@ -1,0 +1,29 @@
+[
+  {
+    "productName": "MyProtein Valgupulber",
+    "description": "1Seda Valmistatakse 100% Preemium Kvaliteedi Vadakuvalgu Kontsentraadist Ning Sisaldab 20g Proteiini Igas Portsjonis (80%). Sisaldades Endas Samuti Suurepärast Aminohapete Tasakaalu, Kõikidest Vajalikest Aminohapetest (EAA) Ning Lisaks Ka 2g Leutsiini Igas Portsjonis. Kui Te Otsite Kõrgkvaliteetset Proteiinipulbrit, Siis See Toode On Teie Jaoks.",
+    "taste": ["Sokolaad", "Maitsestamata", "Banaan"],
+    "sizes": ["1kg", "2.5kg", "5kg"],
+    "prices": [20, 40, 75],
+    "image": "valgupulber.png",
+    "category": "protein"
+  },
+  {
+    "productName": "MyProtein kreatiin",
+    "description": "Kreatiinproteiin on ideaalne kõikidele sportlastele alates kulturistidest ning lõpetades pikamaajooksjatega, kuid kõige enam nendele, kes soovivad suurendada enda suutlikkust, jõudu ning vastupidavust.",
+    "taste": ["Sokolaad", "Maitsestamata", "Banaan"],
+    "sizes": ["0,5kg", "1kg", "2kg"],
+    "prices": [5.99, 11, 19.99],
+    "image": "kreatiin.png",
+    "category": "creatine"
+  },
+  {
+    "productName": "Scitec valgupulber",
+    "description": "100% Whey Protein Professional on suurepärase kvaliteediga vadakuvalgu segu, mis on tehtud vadakukonsentraadist ja isolaatvadakuvalgust.Dieet-proteiinid on nitrogeeni ja asendamatute amiinohapete allikaks, mida keha vajab kudede kasvuks ja säilitamiseks. Seega 100% Whey Protein Professional on panus lihasmassi kasvatamiseks ja säilitamiseks sealjuures säilitades luude normaalse seisukorra. Piimast tehtud vadakuvalk on nn. täiskülluslik proteiin aitamaks varustada keha kõikide vajalike amiinohapetega, s.h 9 peamist keha poolt mitte toodetavat amiinohapet (Histidiin, Isoleutsiin, Leutsiin, Lüsiin, Metioniin, Fenüülalaniin, Teoriin, Trüptofaan ja Valiin)",
+    "taste": ["Sokolaad", "Maitsestamata", "Banaan"],
+    "sizes": ["1kg", "2.5kg", "5kg"],
+    "prices": [25, 45, 80],
+    "image": "scitec.png",
+    "category": "protein"
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "title": {
+    "display": true,
+    "text": "Müügikäive toote kategooriate järgi"
+  },
+  "labels": [
+    "Valgupulbrid",
+    "Kreatiinid",
+    "Aminohapped",
+    "Massilisajad",
+    "Snäkid",
+    "Mineraalid ja vitamiinid"
+  ],
+  "datasets": [
+    {
+      "label": "Müügikäive 2018. aastal",
+      "data": [
+        59200,
+        12500,
+        23400,
+        9800,
+        34320,
+        4320
+      ],
+      "backgroundColor": [
+        "rgba(0, 63, 92, 1)",
+        "rgba(68, 78, 134, 1)",
+        "rgba(149, 81, 150, 1)",
+        "rgba(221, 81, 130, 1)",
+        "rgba(255, 110, 84, 1)",
+        "rgba(255, 166, 0, 1)"
+      ],
+      "borderColor": [
+
+      ],
+      "borderWidth": 1
+    }]
+}

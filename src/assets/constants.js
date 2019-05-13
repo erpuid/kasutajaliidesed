@@ -1,0 +1,1 @@
+export const BASE_URL = 'http://dijkstra.cs.ttu.ee/~erpuid/kasutajaliidesed/prax4/assets/';

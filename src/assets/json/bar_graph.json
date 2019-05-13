@@ -1,0 +1,37 @@
+{
+  "labels": [
+    "Scitec Jumbo Bar",
+    "MyProtein valgupulger",
+    "Scitec valgupulber",
+    "MyProtein kreatiin monohüdraat",
+    "Scitec BCAA XPRESS"
+  ],
+  "datasets": [
+    {
+      "label": "Kogus",
+      "data": [
+        3400,
+        2450,
+        1200,
+        540,
+        450
+      ],
+      "backgroundColor": [
+        "rgba(66, 191, 244, 1)",
+        "rgba(66, 191, 244, 1)",
+        "rgba(66, 191, 244, 1)",
+        "rgba(66, 191, 244, 1)",
+        "rgba(66, 191, 244, 1)",
+        "rgba(66, 191, 244, 1)"
+      ],
+      "borderColor": [
+        "rgba(44, 156, 204, 1)",
+        "rgba(44, 156, 204, 1)",
+        "rgba(44, 156, 204, 1)",
+        "rgba(44, 156, 204, 1)",
+        "rgba(44, 156, 204, 1)",
+        "rgba(44, 156, 204, 1)"
+      ],
+      "borderWidth": 1
+    }]
+}
